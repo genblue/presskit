@@ -1,2 +1,2 @@
 # Presskit 
-This repository contains assets for GenBlue partnerships.
+This repository contains assets for GenBlue partnerships. 
