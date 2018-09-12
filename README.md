@@ -5,11 +5,11 @@ This repository contains assets for GenBlue partnerships.
 
 Please follow us, 
 * Website: http://generation.blue/
-* Facebook: https://www.facebook.com/GenBlueOfficial
+* Telegram: https://t.me/genblue
 * Instagram: https://www.instagram.com/genblueofficial/
-* LinkedIn: https://www.linkedin.com/company/genblue/
-* Telegram: https://t.me/generationblue
+* Facebook: https://www.facebook.com/GenBlueOfficial
 * Twitter: https://twitter.com/genblueofficial 
+* LinkedIn: https://www.linkedin.com/company/genblue/
 
 ## Social Media Channels
 
