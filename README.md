@@ -14,10 +14,10 @@ Please follow us,
 ## Social Media Channels
 
 Please tag us on your media channels. We will do the same.
-@genblueofficial (Facebook)
-@genblueofficial (Instagram)
-@genblueoffical (Twitter)
-@genblue (LinkedIn)
+* @genblueofficial (Facebook)
+* @genblueofficial (Instagram)
+* @genblueoffical (Twitter)
+* @genblue (LinkedIn)
 
 Refer to suggested text examples below
 * Excited to announce that we have teamed up with @GENBLUE_SOCIAL_ID to help build an Earth Positive economy where we give more than we take. 
