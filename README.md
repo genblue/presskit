@@ -4,13 +4,12 @@ This repository contains assets for GenBlue partnerships.
 ## Digital Platforms
 
 Please follow us, 
-Website: http://generation.blue/
-Facebook: https://www.facebook.com/GenBlueOfficial
-Instagram: https://www.instagram.com/genblueofficial/
-LinkedIn: https://www.linkedin.com/company/genblue/
-Telegram: https://t.me/generationblue
-Twitter: https://twitter.com/genblueofficial 
-
+* Website: http://generation.blue/
+* Facebook: https://www.facebook.com/GenBlueOfficial
+* Instagram: https://www.instagram.com/genblueofficial/
+* LinkedIn: https://www.linkedin.com/company/genblue/
+* Telegram: https://t.me/generationblue
+* Twitter: https://twitter.com/genblueofficial 
 
 ## Social Media Channels
 
