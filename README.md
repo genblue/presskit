@@ -24,3 +24,6 @@ Refer to suggested text examples below
 * We are excited to partner with @GENBLUE_SOCIAL_ID to build the Earth Positive economy and protect our planet for all generations to follow.
 * Democratizing natural capital—this is the pathway towards an Earth Positive economy and we are excited to partner with @GENBLUE_SOCIAL_ID to make it a reality.
 * New Partnership Announcement for [YOUR ORGANIZATION] & GenBlue. We are excited to announce we have teamed up with GenBlue to protect Earth’s vital ecosystems and help to build the Earth Positive economy. Visit www.generation.blue to learn more.
+
+## Logos & Images
+GenBlue logos can be downloaded from http://generation.blue/media.html
