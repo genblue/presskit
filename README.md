@@ -1,5 +1,5 @@
 # Presskit 
-This repository contains assets for GenBlue partnerships. 
+This repository contains assets for GenBlue partnerships and the images above can be edited for respective social channels. 
 
 ## Digital Platforms
 
