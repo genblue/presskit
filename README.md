@@ -1,6 +1,6 @@
 # Presskit 
 This repository contains assets for GenBlue partnerships and the images above can be edited for respective social channels.
-Have a support request or seeking something different? [Click here](https://github.com/genblue/presskit/issues)
+Have a support request or seeking something different? [Reach out](https://github.com/genblue/presskit/issues).
 
 ## Digital Platforms
 
